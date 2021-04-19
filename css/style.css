@@ -1,0 +1,19 @@
+@import "_normalize.css";
+@import "_fonts.css";
+@import "_variables.css";
+@import "_vendor.css";
+@import "_global.css";
+@import "_overall.css";
+
+/* components imports */
+
+
+@import "./components/__header.css";
+@import "./components/__first.css";
+@import "./components/__footer.css";
+@import "./components/__fonts.css";
+@import "./components/__featured.css";
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');

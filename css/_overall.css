@@ -1,0 +1,30 @@
+.container {
+	max-width: 1626px;
+	padding: 0 30px;
+	margin: 0 auto;
+}
+.site-container{
+	overflow: hidden;
+}
+
+.flex{
+	display: flex;
+}
+
+.btn-rst{
+	border:none;
+	background-color:transparent;
+	cursor:pointer;
+}
+
+.btn{
+	font-weight: 800;
+	font-size: 12px;
+	letter-spacing: 2.18182px;
+	text-transform: uppercase;
+	border-radius: 8px;
+	color:white;
+	padding: 33px 80px;
+}
+
+
